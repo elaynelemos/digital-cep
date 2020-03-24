@@ -1,0 +1,4 @@
+Search
+ [x] Get address from zipcode default usage with data set "Praça da Sé Address"
+ [x] Get address from zipcode default usage with data set "Somewhere Address"
+
